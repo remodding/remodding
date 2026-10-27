@@ -18,7 +18,7 @@ recent work: TreeLands Reborn, a from-scratch revival of the retired TreeLands g
 
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Ethical_Hacker-Pro-2ea44f?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Ethical_Hacker-Pro-2ea44f?style=for-the-badge&labelColor=0000FF" />
 </p>
 
 ---
