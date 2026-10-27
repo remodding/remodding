@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">remodding</h1>
 
-<!--
-**remodding/remodding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>ethical hacking · bug bounty · game development</b></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/typedef-struct_remodding-161b22?style=for-the-badge&labelColor=0d1117" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ethical hacker and game developer. i hunt bugs on bounty programs, and on the game side i do programming, building, and anti-exploit work, testing games for vulnerabilities and patching them before exploiters find them.
+
+recent work: TreeLands Reborn, a from-scratch revival of the retired TreeLands game, with all assets made by our team.
+
+---
+
+## certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Ethical_Hacker-Pro-2ea44f?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+---
+
+## languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,lua,js,html,c" />
+</p>
+
+
+## what i actually do
+
+- ethical hacking and bug bounty hunting
+- game programming and building
+- anti-exploit systems
+- exploit testing to find and fix vulnerabilities in games
