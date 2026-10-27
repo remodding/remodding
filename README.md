@@ -20,6 +20,7 @@ ethical hacker and game developer. i hunt bugs on bounty programs, and on the ga
   <img src="https://images.credly.com/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/linkedin_thumb_blob" width="240" align="middle" alt="CompTIA PenTest+" />
   <img src="https://images4.cmp.optimizely.com/878158eeb71111ef888eca5646afc7d8?width=300&height=300" width="130" align="middle" alt="CompTIA Ethical Hacker Pro" />
 </p>
+
 ---
 
 ## languages
