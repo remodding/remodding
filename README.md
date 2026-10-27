@@ -3,7 +3,7 @@
 <p align="center"><b>ethical hacking · bug bounty · game development</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/typedef-struct_remodding-161b22?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/typedef-struct_remodding-161b22?style=for-the-badge&labelColor=0000FF" />
 </p>
 
 ---
